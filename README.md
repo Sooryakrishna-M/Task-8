@@ -11,3 +11,4 @@ Insights from the Super Store Sales Dashboard
 4- Monthly sales show a sharp drop after December, declining steadily through the first half of the year. This trend may indicate a post-holiday sales slump and should be considered when planning marketing efforts.
 
 
+NOTE : also to create the months and years i needed to make the order date into the date format . so for that i needed to delete some rows which doesnt support the date format.
